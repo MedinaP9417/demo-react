@@ -1,2 +1,2 @@
 # demo-react
-My ddemo-react project
+My demo-react project
